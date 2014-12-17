@@ -9,7 +9,7 @@ return array(
             'host'      => 'localhost',
             'database'  => 'noteit',
             'username'  => 'root',
-            'password'  => 'LApGUG16oH',
+            'password'  => 'LApGUG16oH'
         ),
 
     ),

@@ -54,13 +54,10 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'localhost',
-			'database'  => 'noteit',
-			'username'  => 'root',
-			'password'  => 'root',
-			'charset'   => 'utf8',
-			'collation' => 'utf8_unicode_ci',
-			'prefix'    => '',
+            'host'      => 'localhost',
+            'database'  => 'noteit',
+            'username'  => 'root',
+            'password'  => 'LApGUG16oH'
 		),
 
 		'pgsql' => array(
